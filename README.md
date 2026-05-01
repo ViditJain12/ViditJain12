@@ -19,7 +19,7 @@ Building software at the intersection of **AI, data systems, backend infrastruct
 
 ## About Me
 
-I’m a Computer Science student minoring in Business Management and Statistics at UC Irvine interested in building reliable, scalable software systems with real-world impact. My work spans large-scale data pipelines, static analysis, AI-assisted development research, backend systems, and full-stack applications.
+I’m a Computer Science student at UC Irvine, minoring in Business Management and Statistics, with an interest in building reliable, scalable software systems that solve real-world problems. My work spans large-scale data pipelines, static analysis, AI-assisted development research, backend systems, and full-stack applications.
 
 Recently, I’ve been working on research involving GitHub mining, pull request behavior, and developer-AI collaboration. I enjoy building projects that combine strong engineering with practical product thinking.
 
