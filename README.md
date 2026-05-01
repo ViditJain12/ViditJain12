@@ -5,6 +5,10 @@
 ### Computer Science @ UC Irvine  
 Building software at the intersection of **AI, data systems, backend infrastructure, and full-stack products**
 
+<a href="https://portfolio-mu-ecru-72.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 <a href="https://www.linkedin.com/in/vidit-jain1">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
