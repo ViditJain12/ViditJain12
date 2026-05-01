@@ -1,6 +1,6 @@
 <div align="center">
 
-# Vidit Jain 👋
+# Vidit Jain
 
 ### Computer Science @ UC Irvine  
 Building software at the intersection of **AI, systems, data, and developer tools**.
@@ -53,10 +53,8 @@ Outside of tech, I enjoy working out, listening to music, traveling, and watchin
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
 ## GitHub Stats
-
 ![Top Languages](https://github-readme-stats-one-sigma-94.vercel.app/api/top-langs/?username=ViditJain12&layout=compact&theme=dark&hide_border=false&border_color=E5E7EB&title_color=FFFFFF&text_color=D1D5DB&bg_color=151515&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)
