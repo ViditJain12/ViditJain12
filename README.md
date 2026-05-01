@@ -61,8 +61,8 @@ Outside of tech, I enjoy working out, listening to music, traveling, and watchin
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViditJain12&show_icons=true&theme=radical&hide_border=false&border_color=7C3AED&title_color=F472B6&text_color=E5E7EB&icon_color=22C55E&bg_color=0D1117&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-one-sigma-94.vercel.app/api?username=ViditJain12&show_icons=true&theme=radical&hide_border=false&border_color=7C3AED&title_color=F472B6&text_color=E5E7EB&icon_color=22C55E&bg_color=0D1117" alt="Vidit's GitHub Stats" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditJain12&layout=compact&theme=radical&hide_border=false&border_color=7C3AED&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats-one-sigma-94.vercel.app/api/top-langs/?username=ViditJain12&layout=compact&theme=radical&hide_border=false&border_color=7C3AED&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117&hide=jupyter%20notebook,dart" alt="Top Languages" />
 
 </div>
