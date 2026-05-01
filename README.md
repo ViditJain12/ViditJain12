@@ -29,7 +29,7 @@ Outside of tech, I enjoy working out, listening to music, traveling, and watchin
 
 ## Tech Stack
 
-#### Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827)
@@ -39,7 +39,7 @@ Outside of tech, I enjoy working out, listening to music, traveling, and watchin
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Frameworks
+### Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -47,7 +47,7 @@ Outside of tech, I enjoy working out, listening to music, traveling, and watchin
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### Data & AI
+### Data & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)
@@ -59,10 +59,4 @@ Outside of tech, I enjoy working out, listening to music, traveling, and watchin
 
 ## GitHub Stats
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats-one-sigma-94.vercel.app/api?username=ViditJain12&show_icons=true&theme=radical&hide_border=false&border_color=7C3AED&title_color=F472B6&text_color=E5E7EB&icon_color=22C55E&bg_color=0D1117" alt="Vidit's GitHub Stats" />
-
-  <img height="180em" src="https://github-readme-stats-one-sigma-94.vercel.app/api/top-langs/?username=ViditJain12&layout=compact&theme=radical&hide_border=false&border_color=7C3AED&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117&hide=jupyter%20notebook,dart" alt="Top Languages" />
-
-</div>
+![Top Languages](https://github-readme-stats-one-sigma-94.vercel.app/api/top-langs/?username=ViditJain12&layout=compact&theme=dark&hide_border=false&border_color=E5E7EB&title_color=FFFFFF&text_color=D1D5DB&bg_color=151515&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)
