@@ -54,3 +54,15 @@ Outside of tech, I enjoy working out, listening to music, traveling, and watchin
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViditJain12&show_icons=true&theme=radical&hide_border=false&border_color=7C3AED&title_color=F472B6&text_color=E5E7EB&icon_color=22C55E&bg_color=0D1117&count_private=true&rank_icon=github" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViditJain12&layout=compact&theme=radical&hide_border=false&border_color=7C3AED&title_color=F472B6&text_color=E5E7EB&bg_color=0D1117" />
+
+</div>
