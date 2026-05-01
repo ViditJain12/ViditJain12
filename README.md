@@ -3,7 +3,7 @@
 # Vidit Jain
 
 ### Computer Science @ UC Irvine  
-Building software at the intersection of **AI, systems, data, and developer tools**.
+Building software at the intersection of **AI, data systems, backend infrastructure, and full-stack products**
 
 <a href="https://www.linkedin.com/in/vidit-jain1">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
